@@ -7,12 +7,14 @@
 
 <br>
 
+<p align="center">
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jh5253)](https://solved.ac/malkoring)
+</p>
 
 <br>
 
 <p align="center">
-  <a href="https://velog.io/@woo0_hooo"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jh5253"/></a>&nbsp
+  <a href="https://velog.io/@jh5253"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jh5253"/></a>&nbsp
 </p>
 
