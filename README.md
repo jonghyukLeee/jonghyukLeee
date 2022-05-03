@@ -12,5 +12,5 @@
 </p>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jh5253)](https://solved.ac/malkoring)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jh5253)](https://solved.ac/jh5253)
 
