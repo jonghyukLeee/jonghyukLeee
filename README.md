@@ -1,4 +1,8 @@
+<div align=center>
+
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JonghyukLee&fontSize=70&animation=twinkling)
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
@@ -14,3 +18,4 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jh5253)](https://solved.ac/jh5253)
 
+</div>
