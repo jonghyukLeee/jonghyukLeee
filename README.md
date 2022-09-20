@@ -10,17 +10,20 @@
 저는 머무르지 않는 백엔드 개발자,
 
 **이종혁** 입니다:no_mouth:
-
 <br>
 
-### :green_book: 기술 블로그 <img src="https://img.shields.io/badge/TechBlog-green?style=square&logo=Bloglovin&link=https://velog.io/@jh5253"/>
-### :dog: Instagram <img src="https://img.shields.io/badge/@whsgur-red?style=square&logo=instagram&link=https://www.instagram.com/whsgur/"/>
+### :green_book: 기술 블로그 <a href="https://velog.io/@jh5253"><img src="https://img.shields.io/badge/TechBlog-green?style=square&logo=Bloglovin&link=https://velog.io/@jh5253"/></a>
+
+### :dog: Instagram <a href="https://www.instagram.com/whsgur/"><img src="https://img.shields.io/badge/@whsgur-red?style=square&logo=instagram&link=https://www.instagram.com/whsgur/"/></a>
+
+<br>
 <br>
 
 # :mag: 관심 분야
 - **Web Backend**
 - **DevOps**
 
+<br>
 <br>
 
 # :bulb: 사용 기술
@@ -42,6 +45,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=square-square&logo=Docker&logoColor=white"/>
 
 <br>
+<br>
 
 # :pencil2: 기록
 
@@ -52,6 +56,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonghyukLeee&theme=buefy&layout=compact" />
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjonghyukLeee&count_bg=%2379C83D&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjonghyukLeee&count_bg=%2384E3D3&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
