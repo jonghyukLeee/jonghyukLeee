@@ -12,6 +12,8 @@
 **이종혁** 입니다:no_mouth:
 <br>
 
+### :feet: 포트폴리오 <a href="https://closed-credit-b9f.notion.site/LEE-JONGHYUK-484d44e0a15a4792a1c4dcac73448c90"><img src="https://img.shields.io/badge/Notion-black?style=square&logo=Notion&link=https://closed-credit-b9f.notion.site/LEE-JONGHYUK-484d44e0a15a4792a1c4dcac73448c90"/></a>
+
 ### :green_book: 기술 블로그 <a href="https://velog.io/@jh5253"><img src="https://img.shields.io/badge/TechBlog-green?style=square&logo=Bloglovin&link=https://velog.io/@jh5253"/></a>
 
 ### :dog: Instagram <a href="https://www.instagram.com/whsgur/"><img src="https://img.shields.io/badge/@whsgur-red?style=square&logo=instagram&link=https://www.instagram.com/whsgur/"/></a>
