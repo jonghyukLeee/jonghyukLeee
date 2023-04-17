@@ -29,7 +29,6 @@
 <br>
 
 # :bulb: 사용 기술
-<img src="https://img.shields.io/badge/C-000000?style=square-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=square-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=square-square&logo=kotlin&logoColor=white"/>
 <br>
