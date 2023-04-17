@@ -31,6 +31,7 @@
 # :bulb: 사용 기술
 <img src="https://img.shields.io/badge/C-000000?style=square-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=square-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=square-square&logo=kotlin&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=square-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=square-square&logo=JavaScript&logoColor=white"/>
@@ -40,7 +41,10 @@
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=square-square&logo=Spring Security&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=square-square&logo=Mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=square-square&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=square-square&logo=MariaDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=square-square&logo=MongoDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/ElasticSearch-005571?style=square-square&logo=elasticsearch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=square-square&logo=Redis&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=square-square&logo=Amazon AWS&logoColor=white"/>
